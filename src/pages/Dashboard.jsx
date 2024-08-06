@@ -28,12 +28,12 @@ function Dashboard() {
       <div>
         <img
           className="h-[16rem] 2xl:h-[20rem] absolute left-0 top-0"
-          src="/public/shape 04.png"
+          src="/shape 04.png"
           alt="bg"
         />
         <img
           className="h-[4rem] 2xl:h-[6rem] absolute right-[6.5rem] top-[3rem] 2xl:top-[4.3rem]"
-          src="/public/shape 01.png"
+          src="/shape 01.png"
           alt="bg"
         />
         <img
@@ -43,12 +43,12 @@ function Dashboard() {
         />
         <img
           className="h-[2rem] 2xl:h-[2.3rem] absolute right-[8rem] 2xl:right-[5.8rem] bottom-[2.5rem] 2xl:bottom-[6rem]"
-          src="/public/shape 02.png"
+          src="/shape 02.png"
           alt="bg"
         />
         <img
           className="h-[1.4rem] 2xl:h-[1.6rem] absolute left-[8rem] bottom-[4rem] 2xl:bottom-[7rem]"
-          src="/public/shape 03.png"
+          src="/shape 03.png"
           alt="bg"
         />
       </div>
