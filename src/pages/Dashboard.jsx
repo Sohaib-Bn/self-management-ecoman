@@ -8,23 +8,6 @@ function Dashboard() {
   // if (isLoading) return <SpinnerFullPage />;
   return (
     <div className="relative h-screen">
-      {/* <div className="flex flex-col gap-3 absolute z-20 right-6 top-5">
-        {isAdmin && (
-          <Link
-            to="/admin"
-            className="text-2xl flex justify-end text-colorBrand hover:translate-x-2 transition-all"
-          >
-            <SlSettings />
-          </Link>
-        )}
-        <button
-          disabled={isPending}
-          onClick={logout}
-          className="text-3xl text-colorBrand hover:translate-x-2 transition-all"
-        >
-          <CiLogout />
-        </button>
-      </div> */}
       <div>
         <img
           className="h-[16rem] 2xl:h-[20rem] absolute left-0 top-0"
@@ -56,8 +39,8 @@ function Dashboard() {
         <header className="flex items-center justify-center px-3 py-[3rem] 2xl:py-[3.9rem]">
           <Link to="/">
             <img
-              className="h-[5rem] 2xl:h-[5.8rem]"
-              src="/logo.png"
+              className="h-[3.8rem] 2xl:h-[5.8rem]"
+              src="/logo sohaib.png"
               alt="logo"
             />
           </Link>
